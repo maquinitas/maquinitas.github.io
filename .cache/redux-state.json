@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "37bdbd78d6649e33ad2d329a0df4d677",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -421,16 +412,14 @@
     },
     "Site": {
       "siteMetadata": {},
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-09T14:10:23.462Z",
+      "buildTime": "2019-01-09T14:14:01.095Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5ba82aeb71bf1477b2424a88448853ac",
+        "contentDigest": "c9c53173b579aac768c52febfe0e74d0",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -580,10 +569,6 @@
     "license-ae3": "789/path---license-ae-3-a2f-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/.cache/dev-404-page.js"
-    },
     "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/contact.js": {
       "query": "",
       "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/contact.js"
