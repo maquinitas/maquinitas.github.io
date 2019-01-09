@@ -1,10 +1,15 @@
 import React from "react"
-import Link from "gatsby-link";
+import Link from "gatsby-link"
+import Helmet from "react-helmet"
 import Header from "../components/header"
 import Layout from "../components/layout"
 
 export default () =>
   <div>
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>maquinitas - home</title>
+    </Helmet>
     <Layout>
     <Header headerText="Home" />
     </Layout>
