@@ -2,12 +2,11 @@ import React from "react";
 import Header from "../components/header"
 import Layout from "../components/layout"
 
-
 export default () => (
   <div>
     <Layout>
-      <Header headerText="Gallery" />
+    <Header headerText="License" />
     </Layout>
-    <p>Coming soon...</p>
+    <p>MIT</p>
   </div>
 );

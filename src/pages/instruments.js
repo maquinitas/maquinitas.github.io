@@ -1,8 +1,13 @@
 import React from "react"
+import Header from "../components/header"
+import Layout from "../components/layout"
+
 
 export default () =>
   <div>
-    <h1>Instruments</h1>
+    <Layout>
+      <Header headerText="Instruments" />
+    </Layout>
     <p>maquinitas is designed for being used with several MIDI instruments.</p>
     <p>maquinitas works with synthesizers, samplers, drum machines, sequencers, etc.</p>
     <p>Some of the instruments currently supported include:</p>

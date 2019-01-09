@@ -1,9 +1,13 @@
 import React from "react"
 import Link from "gatsby-link";
+import Header from "../components/header"
+import Layout from "../components/layout"
 
 export default () =>
   <div>
-    <h1>maquinitas</h1>
+    <Layout>
+    <Header headerText="Home" />
+    </Layout>
     <p>maquinitas is a free libre open-source software library.</p>
     <p>maquinitas lets you creatively interact with different <Link to="/instruments/">MIDI instruments</Link>.</p>
     <p>maquinitas is designed and developed forfor people people interested in:</p>

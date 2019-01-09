@@ -23,5 +23,10 @@
         "componentChunkName": "component---src-pages-instruments-js",
         "jsonName": "instruments-9bf",
         "path": "/instruments/"
+    },
+    {
+        "componentChunkName": "component---src-pages-license-js",
+        "jsonName": "license-ae3",
+        "path": "/license/"
     }
 ]

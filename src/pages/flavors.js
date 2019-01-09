@@ -1,8 +1,14 @@
 import React from "react"
+import Header from "../components/header"
+import Layout from "../components/layout"
+
 
 export default () =>
   <div>
-    <h1>Flavors</h1>
+    <Layout>
+      <Header headerText="Flavors" />
+    </Layout>
+    <h1></h1>
     <h2>maquinitas-chuck</h2>
     <p>Scripts written in <a href="http://chuck.cs.princeton.edu/">ChucK</a>.</p>
     <h2>maquinitas-foxdot</h2>

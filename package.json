@@ -17,12 +17,18 @@
     "gatsby-image": "^2.0.25",
     "gatsby-link": "^2.0.7",
     "gatsby-plugin-sharp": "^2.0.17",
+    "gatsby-plugin-typography": "^2.2.5",
     "gatsby-source-filesystem": "^2.0.13",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "react-typography": "^0.16.18",
+    "typography": "^0.16.18"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/maquinitas/maquinitas.github.io"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
