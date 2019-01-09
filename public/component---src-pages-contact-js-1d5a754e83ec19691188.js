@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{136:function(a,e,t){"use strict";t.r(e);var n=t(0),o=t.n(n);e.default=function(){return o.a.createElement("div",null,o.a.createElement("h1",null,"Contact"),o.a.createElement("p",null,"maquinitas is a project by ",o.a.createElement("a",{href:"http://montoyamoraga.io/"},"Aarón Montoya-Moraga"),"."),o.a.createElement("p",null,"Comments, doubts, and suggestions should be addressed to montoyamoraga@gmail.com"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-1d5a754e83ec19691188.js.map

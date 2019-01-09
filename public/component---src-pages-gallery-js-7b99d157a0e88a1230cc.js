@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{138:function(e,n,l){"use strict";l.r(n);var t=l(0),a=l.n(t);n.default=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Gallery"),a.a.createElement("p",null,"Coming soon..."))}}}]);
+//# sourceMappingURL=component---src-pages-gallery-js-7b99d157a0e88a1230cc.js.map
