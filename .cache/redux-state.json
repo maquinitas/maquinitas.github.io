@@ -400,13 +400,73 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-09T12:59:42.389Z",
+      "buildTime": "2019-01-09T13:24:30.348Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "288e365cc594d6ba73e0f8f0d2b6d854",
+        "contentDigest": "ecccfe6f8b62d939ad885fbdfa94d156",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "25aee885-4a73-5732-b724-7e055f642113",
+      "pluginCreatorId": "25aee885-4a73-5732-b724-7e055f642113",
+      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "28711d93a8ce0e0f9b222c81f8d84d69",
+        "description": "25aee885-4a73-5732-b724-7e055f642113",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /flavors/": {
+      "jsonName": "flavors-b06",
+      "internalComponentName": "ComponentFlavors",
+      "path": "/flavors/",
+      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/flavors.js",
+      "componentChunkName": "component---src-pages-flavors-js",
+      "context": {},
+      "pluginCreator___NODE": "25aee885-4a73-5732-b724-7e055f642113",
+      "pluginCreatorId": "25aee885-4a73-5732-b724-7e055f642113",
+      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/flavors.js",
+      "id": "SitePage /flavors/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a7b28567886fa8a417083ed47d81deac",
+        "description": "25aee885-4a73-5732-b724-7e055f642113",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /gallery/": {
+      "jsonName": "gallery-93e",
+      "internalComponentName": "ComponentGallery",
+      "path": "/gallery/",
+      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/gallery.js",
+      "componentChunkName": "component---src-pages-gallery-js",
+      "context": {},
+      "pluginCreator___NODE": "25aee885-4a73-5732-b724-7e055f642113",
+      "pluginCreatorId": "25aee885-4a73-5732-b724-7e055f642113",
+      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/gallery.js",
+      "id": "SitePage /gallery/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6231cca86ea2baaabcbcc7da7979a22e",
+        "description": "25aee885-4a73-5732-b724-7e055f642113",
         "owner": "internal-data-bridge"
       }
     },
@@ -446,66 +506,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "26bce2eb17ca324a7f1804907fd6664f",
-        "description": "25aee885-4a73-5732-b724-7e055f642113",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /flavors/": {
-      "jsonName": "flavors-b06",
-      "internalComponentName": "ComponentFlavors",
-      "path": "/flavors/",
-      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/flavors.js",
-      "componentChunkName": "component---src-pages-flavors-js",
-      "context": {},
-      "pluginCreator___NODE": "25aee885-4a73-5732-b724-7e055f642113",
-      "pluginCreatorId": "25aee885-4a73-5732-b724-7e055f642113",
-      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/flavors.js",
-      "id": "SitePage /flavors/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a7b28567886fa8a417083ed47d81deac",
-        "description": "25aee885-4a73-5732-b724-7e055f642113",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "jsonName": "contact-26a",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/contact.js",
-      "componentChunkName": "component---src-pages-contact-js",
-      "context": {},
-      "pluginCreator___NODE": "25aee885-4a73-5732-b724-7e055f642113",
-      "pluginCreatorId": "25aee885-4a73-5732-b724-7e055f642113",
-      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/contact.js",
-      "id": "SitePage /contact/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "28711d93a8ce0e0f9b222c81f8d84d69",
-        "description": "25aee885-4a73-5732-b724-7e055f642113",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /gallery/": {
-      "jsonName": "gallery-93e",
-      "internalComponentName": "ComponentGallery",
-      "path": "/gallery/",
-      "component": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/gallery.js",
-      "componentChunkName": "component---src-pages-gallery-js",
-      "context": {},
-      "pluginCreator___NODE": "25aee885-4a73-5732-b724-7e055f642113",
-      "pluginCreatorId": "25aee885-4a73-5732-b724-7e055f642113",
-      "componentPath": "/Users/montoyamoraga/github/maquinitas/maquinitas.github.io/src/pages/gallery.js",
-      "id": "SitePage /gallery/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6231cca86ea2baaabcbcc7da7979a22e",
         "description": "25aee885-4a73-5732-b724-7e055f642113",
         "owner": "internal-data-bridge"
       }
