@@ -1,10 +1,9 @@
 import React from "react";
 import Link from "gatsby-link";
-import Img from 'gatsby-image';
 
-export default ({ data }) => (
+export default () => (
   <div>
       <h1>Gallery</h1>
-      <p>coming soon...</p>
+      <p>Coming soon...</p>
   </div>
 );
