@@ -406,12 +406,12 @@
       "siteMetadata": {},
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-09T14:04:22.393Z",
+      "buildTime": "2019-01-09T14:08:05.823Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8d9c29b7671a4553edc0c0d45dbb2aab",
+        "contentDigest": "81dbbaad4479f7fd49f37014b2129d40",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
