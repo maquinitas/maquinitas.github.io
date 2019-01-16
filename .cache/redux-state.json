@@ -414,12 +414,12 @@
       "siteMetadata": {},
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-09T14:14:01.095Z",
+      "buildTime": "2019-01-16T07:00:11.134Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c9c53173b579aac768c52febfe0e74d0",
+        "contentDigest": "e2ab00a20b7bd6b8c7539b736bc3e1e6",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

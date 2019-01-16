@@ -18,8 +18,13 @@ export default () =>
     <p>Some of the instruments currently supported include:</p>
     <ul>
       <li><a href="http://www.bastl-instruments.com/instruments/microgranny/">BASTL microGranny 2</a>: sampler.</li>
-      <li><a href="https://www.korg.com/us/products/dj/volca_fm/">KORG volca fm</a>: FM synthesizer.</li>
-      <li><a href="https://www.moogmusic.com/products/taurus/minitaur">Moog Minitaur</a>: bass synthesizer.</li>
+      <li>Critter & Guitari Bolsa Bass: bass synth.</li>
+      <li><a href="https://www.korg.com/us/products/dj/volca_fm/">KORG volca fm</a>: FM synth.</li>
+      <li><a href="https://www.moogmusic.com/products/taurus/minitaur">Moog Minitaur</a>: bass synth.</li>
+      <li><a href="https://www.roland.com/global/products/jp-08/">Roland JP-08</a>: synth.</li>
+      <li><a href="https://www.roland.com/global/products/sh-01a/">Roland SH-01A</a>: synth.</li>
+      <li><a href="https://www.roland.com/global/products/tb-03/">Roland TB-03</a>: bass synth.</li>
+      <li><a href="https://www.roland.com/global/products/tr-08/">Roland TR-08</a>: drum machine.</li>
       <li><a href="https://www.roland.com/global/products/tr-09/">Roland TR-09</a>: drum machine.</li>
     </ul>
 

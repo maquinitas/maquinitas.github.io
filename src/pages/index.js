@@ -30,13 +30,13 @@ export default () =>
     <p>maquinitas is available in different <Link to="/flavors">flavors</Link>:</p>
 
     <ul>
-      <li>maquinitas-chuck</li>
-      <li>maquinitas-foxdot</li>
-      <li>maquinitas-max</li>
-      <li>maquinitas-m4l</li>
-      <li>maquinitas-pd</li>
-      <li>maquinitas-supercollider</li>
-      <li>maquinitas-tidal</li>
+      <li><a href="https://github.com/maquinitas/maquinitas-chuck">maquinitas-chuck</a></li>
+      <li><a href="https://github.com/maquinitas/maquinitas-foxdot">maquinitas-foxdot</a></li>
+      <li><a href="https://github.com/maquinitas/maquinitas-max">maquinitas-max</a></li>
+      <li><a href="https://github.com/maquinitas/maquinitas-m4l">maquinitas-m4l</a></li>
+      <li><a href="https://github.com/maquinitas/maquinitas-pd">maquinitas-pd</a></li>
+      <li><a href="https://github.com/maquinitas/maquinitas-supercollider">maquinitas-supercollider</a></li>
+      <li><a href="https://github.com/maquinitas/maquinitas-tidal">maquinitas-tidal</a></li>
     </ul>
 
     <p>maquinitas is a project by <a href="http://montoyamoraga.io/">Aarón Montoya-Moraga</a>.</p>
